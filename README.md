@@ -2,5 +2,5 @@
 
 bug fixes
 
-welcome to our code
+Welcome to the conflict-solved code
 
