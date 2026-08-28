@@ -1,1 +1,4 @@
-# git-session
+# git-session 
+
+bug fixes
+
